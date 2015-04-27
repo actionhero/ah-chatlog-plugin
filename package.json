@@ -1,0 +1,24 @@
+{
+  "author": "Evan Tahler <evantahler@gmail.com>",
+  "name": "ah-chatlog-plugin",
+  "description": "I log chat messages to redis, and expose actions to read them",
+  "version": "0.0.3",
+  "homepage": "http://actionherojs.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/evantahler/ah-chatlog-plugin.git"
+  },
+  "keywords": [
+    "actionhero",
+    "ah",
+    "chat",
+    "log",
+    "logging",
+    "say",
+    "message",
+    "history"
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
